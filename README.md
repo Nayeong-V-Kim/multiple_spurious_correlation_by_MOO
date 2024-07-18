@@ -61,7 +61,7 @@ bffhq
 ```
 
 ## Model checkpoints
-You can download model checkpoints from [here]().
+You can download model checkpoints from [here](https://drive.google.com/drive/folders/1X4Q8Xp2k3hL130DeYysdNS08v5d_YvbM?usp=sharing).
 ```
 best_epoch
  └ MultiCelebA_best_epoch.pth
